@@ -16,7 +16,10 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ImThanOs36&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ImThanOs36&label=Profile%20Views&color=11&icon=0&pretty=true" />
+</a>
+[![](https://visitcount.itsvg.in/api?id=ImThanOs36&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/ImThanOs36) 
