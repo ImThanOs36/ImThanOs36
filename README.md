@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/imthanos36/imthanos36/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/imthanos36<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
