@@ -44,8 +44,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/imthanos36/imthanos36/blob/output/github-contribution-grid-snake2.svg)
-
 ###
 
 <p align="left">Hello World!!</p>
